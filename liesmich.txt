@@ -1,0 +1,66 @@
+2005-01-04 / liesmich.txt
+
+Die Ihnen vorliegende CD-Rom enthält eine technische Dokumentation zu einer Anlage oder Maschine.
+
+Systemvoraussetzungen
+-------------------------------------
+Betriebssystem: Microsoft Windows 98/, NT 4.x, 2000, XP
+Browser: Microsoft Internet Explorer oder Netscape Navigator ab 4.0 mit aktiviertem Java und Acrobat Reader 5.0 oder höher.
+Getestet wurde die Dokumentation von uns unter dem Microsoft Internet Explorer 5 und Acrobat 5.
+Sie finden den Adobe Acrobat® Reader® zum kostenlosen download unter
+http://www.adobe.de/products/acrobat/readermain.html
+
+Die Dokumentation läuft vollständig von CD. Es ist keine Installation notwendig. 
+Aus Performance - Gründen wird eine Kopie aller Dateien in der originalen Pfadstruktur auf Festplatte empfohlen.
+Hierbei kann es jedoch unter dem betriebssystem WIN XP, sp2, zu unerwünschten Meldungen kommen.
+Die Meldungen können Sie ignorieren.
+
+Prozessor: 233 MHz oder besser
+Hauptspeicher: mindestens 128 Mbyte RAM (empfohlen 256 Mbyte)
+Grafikkarte: mindestens 65535 Farben
+Bildschirmauflösung: mindestens 800*600
+Festplattenspeicher: kein Platz notwendig.
+CD-Rom-Laufwerk mit mindestens zwanzigfacher Geschwindigkeit
+Maus oder vergleichbares Zeigewerkzeug
+
+
+Installation - Deinstallation
+----------------------------------------
+Es ist keine Installation und damit keine Deinstallation notwendig!
+Lediglich ein Web - Browser und Acrobat-Reader müssen installiert sein.
+Achten Sie bei der Acrobat - Reader Einstellung auf den Eintrag 
+/ OPTIONEN / WEB-BROWSER-OPTIONEN / 
+
+
+Start
+---------
+Sollte der Auto - Start nach dem Einlegen der CD in das Laufwerk nicht gelingen, können Sie
+die Datei  START.BAT direkt starten oder mit einem Browser die Datei  ....\index.htm öffnen.
+
+
+
+Allgemeine Bedienungshinweise
+-------------------------------------------------
+·         Kenntnisse mit dem Arbeiten am PC, Microsoft Windows, Internet Explorer und Acrobat Reader werden vorausgesetzt.
+·         Wir haben alle Seiten so gestaltet, dass sich die Bedienung von selbst erschließt 
+
+Benutzungshinweise und Haftungsausschluss 
+---------------------------------------------------------------------
+Wir haben diese Dokumentation mit großer Sorgfalt erstellt und alle Angaben auf ihre Richtigkeit hin geprüft. 
+Für etwaige fehlerhafte oder unvollständige Angaben kann jedoch keine Haftung übernommen werden. 
+Die Produktangaben in der Dokumentation entsprechen dem aktuellen Stand. 
+Aus Gründen der ständigen Weiterentwicklung unserer Erzeugnisse müssen Änderungen vorbehalten bleiben, 
+die nicht in der Dokumentation wiedergegeben sind. Dies ist insbesondere beim Herunterladen und Weiterverwenden 
+von Zeichnungs-Modellen zu beachten. Insbesondere haften wir nicht für die in dieser Dokumentation mitgelieferten Dokumente unserer Zulieferer.
+
+Darstellungen, die nicht durch exakte Maßeinheiten gestützt werden, dienen lediglich der Veranschaulichung.
+Die Wiedergabe von Gebrauchsnamen, Handelsnamen, Warenbezeichnungen usw. in dieser Dokumentation und allen mitgelieferten Daten berechtigt auch ohne besondere Kennzeichnung nicht zu der Annahme, dass solche Namen im Sinne der Markenschutzgesetzgebung als frei zu betrachten wären und daher von jedermann benutzt werden dürfen. 
+Für Lieferungen und sonstige Leistungen im kaufmännischen Geschäftsverkehr gelten die jeweiligen Verkaufs- und Lieferbedingungen.
+
+
+
+Problembeseitigung
+-------------------------------
+1. Vergewissern Sie sich, dass Ihre Hard- und Software der genannten System-Mindestkonfiguration entspricht.
+2. Kontrollieren Sie bitte die ordnungsgemäße Einrichtung von Hard- und Software und die Kabelverbindungen zu Ihren Peripheriegeräten.
+3. Beachten Sie bitte die Hinweise Ihres PC - Systemlieferanten und die Hinweise in dieser Datei.
